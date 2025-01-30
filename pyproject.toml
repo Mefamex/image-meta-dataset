@@ -1,6 +1,5 @@
 [project]
-authors = [
-    {name = "mefamex", website = "https://mefamex.com/"}]
+authors = [{name = "mefamex", website = "https://mefamex.com/"}]
 name = "image-meta-dataset"
 version = "0.1.0"
 description = "Add your description here"
