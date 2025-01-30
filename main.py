@@ -26,6 +26,8 @@ import piexif
 import piexif.helper
 import os
 
+
+
 def display_metadata(image_path):
     if not os.path.exists(image_path):
         print(f"Hata: {image_path} bulunamadı.")
@@ -48,6 +50,7 @@ def display_metadata(image_path):
                 print(f"{tag}: {value}")
     print("............................................")
 
+
 def delete_image_metadata(image_path, output_path):
     if not os.path.exists(image_path):
         print(f"Hata: {image_path} bulunamadı.")
@@ -59,6 +62,7 @@ def delete_image_metadata(image_path, output_path):
     image.save(output_path, exif=exif_bytes)
     print(f"{image_path} dosyasındaki metadata başarıyla silindi ve {output_path} dosyasına kaydedildi.")
     print("............................................")
+
 
 # Örnek Kullanım
 image_path = "a.jpg"
