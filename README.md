@@ -8,7 +8,12 @@
 
 - **Meta Veri Görüntüleme**: Görüntü dosyalarının mevcut meta verilerini görüntüler.
 - **Meta Veri Silme**: Görüntü dosyalarından meta verileri siler ve yeni bir dosya olarak kaydeder.
+- **Kullanıcı Dostu Arayüz**: Kullanıcıların işlemleri kolayca gerçekleştirmesine olanak tanır.
 - **Desteklenen Formatlar**: JPEG, PNG gibi yaygın görüntü formatlarını destekler.
+
+## UV Entegrasyonu
+
+**UV**, Rust ile yazılmış, son derece hızlı bir Python paket ve proje yöneticisidir. [Ziyaret et](https://docs.astral.sh/uv/).
 
 ## Kurulum
 
