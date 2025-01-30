@@ -22,9 +22,7 @@ print(__file__)
 print("Pillow Version:", Image.__version__, "\n----------------------------------------\n")
 
 from PIL import Image
-import piexif
-import piexif.helper
-import os
+import os, piexif, piexif.helper 
 
 
 
