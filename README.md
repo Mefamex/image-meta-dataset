@@ -1,4 +1,4 @@
-# Image Metadata Dataset
+# Image Meta Dataset
 
 ## Proje Hakkında
  
