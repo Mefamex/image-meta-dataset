@@ -19,7 +19,7 @@
 
 Projeyi kullanmak için aşağıdaki adımları izleyin:
 
-1. **Python Kurulumu**: Projeyi çalıştırmak için Python 3.x gereklidir. [Python resmi sitesinden](https://www.python.org/downloads/) indirebilirsiniz.
+1. **Python Kurulumu**: Projeyi çalıştırmak için Python 3.x gereklidir.
 
 2. **Gerekli Kütüphanelerin Kurulumu**:
    ```bash
