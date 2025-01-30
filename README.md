@@ -1,7 +1,7 @@
 # Image Metadata Dataset
 
 ## Proje Hakkında
-
+ 
 **Image Metadata Dataset**, görüntü dosyalarının meta verilerini okuma, silme ve yönetme işlemlerini kolaylaştıran bir Python projesidir. Bu proje, Pillow ve Piexif kütüphanelerini kullanarak görüntü dosyalarının EXIF verilerini işler. Proje, kullanıcıların görüntü dosyalarının meta verilerini kolayca görüntülemesine ve düzenlemesine olanak tanır.
 
 ## Özellikler
